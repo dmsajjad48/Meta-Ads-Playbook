@@ -5,7 +5,6 @@
 ![GA4](https://img.shields.io/badge/GA4-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 
-# 🚀 Meta Ads Playbook
 
 A practical guide to creating, optimizing, and scaling profitable Meta Ads campaigns.
 
